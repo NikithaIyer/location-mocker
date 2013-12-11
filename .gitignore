@@ -2,6 +2,7 @@
 *.ipr
 *.iws
 .idea/
+*.iml
 *~
 \#*\#
 /.emacs.desktop
@@ -9,3 +10,7 @@
 .elc
 auto-save-list
 tramp
+out
+gen
+local.properties
+
